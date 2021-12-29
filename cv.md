@@ -11,7 +11,7 @@
 
 ## **About Me**  
 
-I am 23 years old. As an athlete, I am a team player and I know how to sacrifice personal interests for the common good. By profession, I am a design engineer in the field of mechanical engineering as the head of the bureau. It is my job to process large amounts of information, find a common language with people and achieve the tasks set. I started studying Front-End development, as it is an interesting and promising direction.  
+I am 30 years old. As an athlete, I am a team player and I know how to sacrifice personal interests for the common good. By profession, I am a design engineer in the field of mechanical engineering as the head of the bureau. It is my job to process large amounts of information, find a common language with people and achieve the tasks set. I started studying Front-End development, as it is an interesting and promising direction.  
 
 ## **Skills**
 
